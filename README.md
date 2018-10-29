@@ -27,4 +27,4 @@ To visualize the computational graph and the cost with TensorBoard, run `tensorb
 Credits for the code go to [Conchylicultor](https://github.com/Conchylicultor/MusicGenerator). I've merely created a wrapper to get people started.
 
 #git branch
-add dev a branch and then test 
+add dev a branch and then test the branch, git add it and git commit it.
